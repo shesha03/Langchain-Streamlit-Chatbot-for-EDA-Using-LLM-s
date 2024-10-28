@@ -100,12 +100,5 @@ For more details, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any questions or issues, please reach out to:
-
-- **Email**:sumanthweb8@gmail.com
-- 
-
 
 Thank you for using the EDA Chatbot! We hope it enhances your data exploration experience.
